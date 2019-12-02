@@ -362,6 +362,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 79TGW25V5A;
+				HEADER_SEARCH_PATHS = glm/;
 				INFOPLIST_FILE = breakstuff/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -380,6 +381,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 79TGW25V5A;
+				HEADER_SEARCH_PATHS = glm/;
 				INFOPLIST_FILE = breakstuff/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
